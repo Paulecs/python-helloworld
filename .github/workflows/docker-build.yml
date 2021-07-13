@@ -35,4 +35,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: paulecs/python-helloworld:latest
+          tags: Paulecs/python-helloworld:latest
